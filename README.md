@@ -41,7 +41,7 @@ My first game for the PS4 was The Crew. I really enjoyed it and still remember m
 
 ## Additional recources
 - [DoesItPlay](https://www.doesitplay.org/) - one of the most important websites to find out if the game you're interested in is playable without the internet connection or patches
-- [StopKillingGames](https://stopkillinggames.com)
+- [StopKillingGames](https://stopkillinggames.com) - consumer movement started to challenge the legality of publishers destroying video games they have sold to customers
 - [Video Game History Foundation](https://gamehistory.org/) - 501(c)3 non-profit organization dedicated to preserving, celebrating, and teaching the history of video games
 
 ### Digital [DRM](https://www.defectivebydesign.org/what_is_drm)-free Stores
@@ -52,10 +52,12 @@ My first game for the PS4 was The Crew. I really enjoyed it and still remember m
 
 ### YouTube Channels
 - [Destruction Games](https://www.youtube.com/@DestructionGames)
+- [DoesItPlay?](https://www.youtube.com/@DoesItPlay-org)
 - [N-GAME ARTS](https://www.youtube.com/@n-gamearts1731)
 - [RETRO GAME FUTURE](https://www.youtube.com/@RETROGAMEFUTURE) _(French)_
 
 #### Other great channels often mentioning video game preservation
+- [Accursed Farms](https://www.youtube.com/@Accursed_Farms)
 - [Modern Vintage Gamer](https://www.youtube.com/@ModernVintageGamer)
 - [orbalology](https://www.youtube.com/@orbalology)
 - [SomeOrdinaryGamers](https://www.youtube.com/@SomeOrdinaryGamers)
